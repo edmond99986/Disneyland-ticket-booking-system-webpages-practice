@@ -18,7 +18,14 @@ JavaScript controls the interactivity of the pages.
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-
+ 
+<h2>Pages Used </h2>
+- <b>Mainpage</b> 
+<img src="https://i.imgur.com/HoVvKhs.png" height="80%" width="80%" alt="Disneyland site"/>
+<br/>
+<br/>
+- <b>Order&Booking page</b> 
+<img src="https://i.imgur.com/BQTgBOr.png" height="80%" width="80%" alt="Disneyland site"/>
 
 <!--
  ```diff
